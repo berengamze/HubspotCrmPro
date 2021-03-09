@@ -1,2 +1,4 @@
-package com.qa.hubspot.base;public class BasePage {
+package com.qa.hubspot.base;
+
+public class BasePage {
 }
